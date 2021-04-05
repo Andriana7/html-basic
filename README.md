@@ -12,5 +12,5 @@ Well, you've come to the right place! Here, we'll accompany you to learn beginne
 [01 - Struktur Dasar HTML](https://raw.githubusercontent.com/Andriana7/html-basic/main/01%20-%20Struktur%20Dasar%20HTML/index.html)<br>
 [02 - Hello World](https://raw.githubusercontent.com/Andriana7/html-basic/main/02%20-%20Hello%20World/index.html)<br>
 [03 - Tag Heading (Judul)](https://raw.githubusercontent.com/Andriana7/html-basic/main/03%20-%20Tag%20Heading%20(Judul)/index.html)<br>
-[04 - Tag Link (Tautan)](https://raw.githubusercontent.com/Andriana7/html-basic/main/04%20-%20Tag%20Link%20(Tautan)/index.html)
-
+[04 - Tag Link (Tautan)](https://raw.githubusercontent.com/Andriana7/html-basic/main/04%20-%20Tag%20Link%20(Tautan)/index.html)<br>
+[05 - Tag IMG (Gambar)](https://raw.githubusercontent.com/Andriana7/html-basic/main/05%20-%20Tag%20Img%20(Gambar)/index.html)
