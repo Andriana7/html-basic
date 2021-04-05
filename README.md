@@ -9,5 +9,5 @@ Well in order for that not to happen, you need to learn HTML. Thus, your capabil
 
 Well, you've come to the right place! Here, we'll accompany you to learn beginner HTML in a simple way. In one read, you'll understand:
 
-[01 - Struktur Dasar HTML](https://raw.githubusercontent.com/Andriana7/html-basic/main/01%20-%20Struktur%20Dasar%20HTML/index.html)
+[01 - Struktur Dasar HTML](https://raw.githubusercontent.com/Andriana7/html-basic/main/01%20-%20Struktur%20Dasar%20HTML/index.html)<br>
 [02 - Hello World](https://raw.githubusercontent.com/Andriana7/html-basic/main/02%20-%20Hello%20World/index.html)
